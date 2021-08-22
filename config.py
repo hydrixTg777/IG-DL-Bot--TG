@@ -95,7 +95,7 @@ Example: <code>/followers samantharuthprabhuoffl</code>
 
 """
     HOME_TEXT = """
-<b>Helo, [{}](tg://user?id={})
+<b>😜 Hello, [{}](tg://user?id={})
 
 This is a bot of [{}](www.instagram.com/{}) to manage his Instagram account. 
 I can only work for my master [{}](tg://user?id={}).
@@ -104,9 +104,9 @@ But you can Deploy the same bot for your use from the below source code.
 Use /help to know What I can Do?</b>
 """
     HOME_TEXT_OWNER = """
-<b>Helo, [{}](tg://user?id={})
-I am your assistant to manage your Instagram account.
-
+<b>😜 Hello, [{}](tg://user?id={})
+I am your assistant to manage your Instagram account ⭕.
+My Group :- @Tg_Hydra_Galaxy
 Use /help to know what I can do for you.</b>
 """
 
