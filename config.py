@@ -95,18 +95,18 @@ Example: <code>/followers samantharuthprabhuoffl</code>
 
 """
     HOME_TEXT = """
-<b>😜 Hello, [{}](tg://user?id={})
+<b>😜 𝙷𝚎𝚕𝚕𝚘, [{}](tg://user?id={})
 
-This is a bot of [{}](www.instagram.com/{}) to manage his Instagram account. 
-I can only work for my master [{}](tg://user?id={}).
-But you can Deploy the same bot for your use from the below source code.
+𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝚋𝚘𝚝 𝚘𝚏 [{}](www.instagram.com/{}) 𝚝𝚘 𝚖𝚊𝚗𝚊𝚐𝚎 𝚑𝚒𝚜 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚊𝚌𝚌𝚘𝚞𝚗𝚝. 
+𝙸 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚠𝚘𝚛𝚔 𝚏𝚘𝚛 𝚖𝚢 𝚖𝚊𝚜𝚝𝚎𝚛 [{}](tg://user?id={}).
+
 
 Use /help to know What I can Do?</b>
 """
     HOME_TEXT_OWNER = """
-<b>😜 Hello, [{}](tg://user?id={})
-I am your assistant to manage your Instagram account ⭕.
-My Group :- @Tg_Hydra_Galaxy
-Use /help to know what I can do for you.</b>
+<b>😜 𝙷𝚎𝚕𝚕𝚘, [{}](tg://user?id={})
+𝙸 𝚊𝚖 𝚢𝚘𝚞𝚛 𝚊𝚜𝚜𝚒𝚜𝚝𝚊𝚗𝚝 𝚝𝚘 𝚖𝚊𝚗𝚊𝚐𝚎 𝚢𝚘𝚞𝚛 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 ⭕.
+𝙼𝚢 𝙶𝚛𝚘𝚞𝚙 :- @Tg_Hydra_Galaxy
+𝚄𝚜𝚎 /help 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚠𝚑𝚊𝚝 𝙸 𝚌𝚊𝚗 𝚍𝚘 𝚏𝚘𝚛 𝚢𝚘𝚞.</b>
 """
 
