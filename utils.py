@@ -192,8 +192,8 @@ async def upload(m, bot, chat_id, dir):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-					InlineKeyboardButton("⚜️ Developer ⚜️", url='https://t.me/Tg_Hydra_Galaxy'),
-					InlineKeyboardButton("⚜️ My Group ⚜️", url="https://t.me/Tg_Hydra_Galaxy")
+					InlineKeyboardButton("⚜️ 🤔😁 ⚜️", url='https://t.me/Tg_Hydra_Galaxy'),
+					InlineKeyboardButton("⚜️ ,No My Group ⚜️", url="https://t.me/Tg_Hydra_Galaxy")
 				],
 				[
 					InlineKeyboardButton("🔗Source Code 😁", url="https://t.me/Tg_Hydra_Galaxy"),
