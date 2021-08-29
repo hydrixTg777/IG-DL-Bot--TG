@@ -70,7 +70,7 @@ Example: /followers samantharuthprabhuoffl
 ```
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/IG-DL-Bot--TG.git)
 
 Watch This [Video](https://youtu.be/aVkmoVPSOYI) Tutorial For Better Understanding.
 
