@@ -43,16 +43,16 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Tg_Hydra_Galaxy'),
+						InlineKeyboardButton("😉 No Developer", url='https://t.me/Tg_Hydra_Galaxy'),
 						InlineKeyboardButton("🤖Other Bots", url="https://t.me/Tg_Hydra_Galaxy")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://t.me/Tg_Hydra_Galaxy"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://t.me/Tg_Hydra_Galaxy")
+                        InlineKeyboardButton("🔗No Source Code 😁", url="https://t.me/Tg_Hydra_Galaxy"),
+						InlineKeyboardButton("🙃 Illuminandi 2.0 🙂", url="https://t.me/Tg_Hydra_Galaxy")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Tg_Hydra_Galaxy")
+						InlineKeyboardButton("⚙️ No Channel", url="https://t.me/Tg_Hydra_Galaxy")
 
                     ]
 					
@@ -66,15 +66,15 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Tg_Hydra_Galaxy'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/Tg_Hydra_Galaxy"),
+						InlineKeyboardButton("😕 No Developer", url='https://t.me/Tg_Hydra_Galaxy'),
+						InlineKeyboardButton("🤖Bot", url="https://t.me/Tg_Hydra_Galaxy"),
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://t.me/Tg_Hydra_Galaxy")
+                        InlineKeyboardButton("🔗 No Source Code 😁", url="https://t.me/Tg_Hydra_Galaxy")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Tg_Hydra_Galaxy")
+						InlineKeyboardButton("⚙️ No Channel", url="https://t.me/Tg_Hydra_Galaxy")
 
                     ]
 					
@@ -91,14 +91,14 @@ async def help(bot, cmd):
 		reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Tg_Hydra_Galaxy'),
-					InlineKeyboardButton("🤖Other Bots", url="https://t.me/Tg_Hydra_Galaxy"),
-					InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Tg_Hydra_Galaxy")
+					InlineKeyboardButton("👨🏼‍💻 No Developer", url='https://t.me/Tg_Hydra_Galaxy'),
+					InlineKeyboardButton("🤖Bot", url="https://t.me/Tg_Hydra_Galaxy"),
+					InlineKeyboardButton("⚙️ No Channel", url="https://t.me/Tg_Hydra_Galaxy")
 					
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://t.me/Tg_Hydra_Galaxy"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://t.me/Tg_Hydra_Galaxy")
+					InlineKeyboardButton("🙂 Source 🙃", url="https://t.me/Tg_Hydra_Galaxy"),
+					InlineKeyboardButton("🧩Bot", url="https://t.me/Tg_Hydra_Galaxy")
 				]
 			]
 			)
@@ -113,16 +113,16 @@ async def stop(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Tg_Hydra_Galaxy'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/Tg_Hydra_Galaxy")	
+						InlineKeyboardButton("🤗 No Developer", url='https://t.me/Tg_Hydra_Galaxy'),
+						InlineKeyboardButton("🤖 Bot", url="https://t.me/Tg_Hydra_Galaxy")	
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://t.me/Tg_Hydra_Galaxy"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://t.me/Tg_Hydra_Galaxy")
+                        InlineKeyboardButton("🔗 Code", url="https://t.me/Tg_Hydra_Galaxy"),
+						InlineKeyboardButton("🧩Bot", url="https://t.me/Tg_Hydra_Galaxy")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Tg_Hydra_Galaxy")
+						InlineKeyboardButton("⚙️ No Channel", url="https://t.me/Tg_Hydra_Galaxy")
 
                     ]
 					
