@@ -53,13 +53,13 @@ async def cb_handler(bot: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("😎Developer", url='https://t.me/Tg_Hydra_Galaxy'),
+					InlineKeyboardButton("😎 No Developer", url='https://t.me/Tg_Hydra_Galaxy'),
 					InlineKeyboardButton("🤖 My Group", url="https://t.me/Tg_Hydra_Galaxy"),
-                    InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Tg_Hydra_Galaxy")
+                    InlineKeyboardButton("⚙️ Elluminandi 2.0 😁", url="https://t.me/Tg_Hydra_Galaxy")
 				],
 				[
-					InlineKeyboardButton("🔗Source Code 😁", url="https://t.me/Tg_Hydra_Galaxy"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://t.me/Tg_Hydra_Galaxy")
+					InlineKeyboardButton("🔗No Source Code 😁", url="https://t.me/Tg_Hydra_Galaxy"),
+					InlineKeyboardButton("🧩 😜", url="https://t.me/Tg_Hydra_Galaxy")
 				]
 			]
 			)
